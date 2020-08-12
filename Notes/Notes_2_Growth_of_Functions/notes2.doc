@@ -1,0 +1,8 @@
+Algorithms Notes 2
+
+Asymptotic Notation is used to describe the growth of functions
+
+O(()) or upper bounds are used for particular Algorithms performance 
+(Omega()) or lower bounds are used for indicating the inherent difficulty of the problem
+    - if solving this problem, you need at least this ammount of resources
+(Theta())   or asymptoically tight bound - used to express time for worst case instances of the algorithm
